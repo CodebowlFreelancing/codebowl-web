@@ -54,7 +54,7 @@ article {
   align-items: center;
 
   margin: 1em;
-  margin: 2vh 8vw;
+  margin: 1vh 5vw;
 }
 
 section {
@@ -69,7 +69,7 @@ footer {
   justify-content: flex-end;
   align-items: center;
 
-  padding: 1vh 2vh;
+  padding: 2vh 3vh;
 }
 
 a {
