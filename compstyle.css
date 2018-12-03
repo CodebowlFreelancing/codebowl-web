@@ -24,7 +24,7 @@ header {
 }
 
 .logo {
-  background: url("assets/codebowl-logo.svg") center no-repeat;
+  background: url("/assets/codebowl-logo.svg") center no-repeat;
   background-color: transparent;
   background-size: contain;
 
